@@ -4,7 +4,7 @@
 int main(){
     //read all data from the file and process it. then stdout: "Processed file XYZ and parsed data for M movies"
     // Processed file movies_sample_1.csv and parsed data for 24 movies
-
+    
     //display a menus of interactive choices to the user
         //For the interaction choice if the user enters an incorrect integer (i.e., something other than 1 to 4), 
         //print an error message and again present the 4 choices to the user. 
